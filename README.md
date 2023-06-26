@@ -1,16 +1,15 @@
 ### Hi there 👋
+Ao longo de minha carreira, concentrei-me principalmente em funções relacionadas à infraestrutura, trabalhando com várias tecnologias e sistemas. Ganhei uma experiência valiosa em gerenciamento e manutenção de infraestrutura, garantindo sua estabilidade, escalabilidade e segurança.
 
-<!--
-**Hebert031/Hebert031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No entanto, recentemente embarquei em uma jornada para expandir minhas habilidades de programação. Tenho dedicado bastante tempo ao estudo de linguagens de programação como Python e shell scripting. Isso me permitiu desenvolver scripts para automatizar tarefas, manipular arquivos JSON e criar fluxos de trabalho eficientes.
 
-Here are some ideas to get you started:
+Meu interesse crescente em programação decorre da percepção de que combinar conhecimento de infraestrutura com habilidades de programação pode aumentar significativamente minha capacidade de otimizar processos e simplificar operações. Acredito que uma base sólida em programação pode me permitir abordar os desafios de infraestrutura de uma perspectiva mais versátil e eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pretendo desenvolver ainda mais minhas capacidades de programação, aprender novas tecnologias e ganhar experiência prática na criação de aplicativos e na resolução de problemas do mundo real. Estou entusiasmado com a oportunidade de preencher a lacuna entre infraestrutura e desenvolvimento, contribuindo para sistemas mais robustos e resilientes. / Throughout my career, I have primarily focused on infrastructure-related roles, working with various technologies and systems. I have gained valuable experience in managing and maintaining infrastructure, ensuring its stability, scalability, and security.
+
+However, I have recently embarked on a journey to expand my programming skills. I have been dedicating a significant amount of time to studying programming languages such as Python and shell scripting. This has allowed me to develop scripts to automate tasks, manipulate JSON files, and create efficient workflows.
+
+My growing interest in programming stems from the realization that combining infrastructure knowledge with programming skills can significantly enhance my ability to optimize processes and streamline operations. I believe that a strong foundation in programming can enable me to approach infrastructure challenges from a more versatile and efficient perspective.
+
+I aim to further develop my programming capabilities, learn new technologies, and gain hands-on experience in building applications and solving real-world problems. I am excited about the opportunity to bridge the gap between infrastructure and development, ultimately contributing to more robust and resilient systems.
+
