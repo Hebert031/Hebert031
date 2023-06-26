@@ -57,5 +57,3 @@ I aim to further develop my programming capabilities, learn new technologies, an
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Hebert031/Hebert031/output/snake.svg" alt="Snake animation" />
