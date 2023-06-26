@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Pessoal 👋
 Ao longo de minha carreira, concentrei-me principalmente em funções relacionadas à infraestrutura, trabalhando com várias tecnologias e sistemas. Ganhei uma experiência valiosa em gerenciamento e manutenção de infraestrutura, garantindo sua estabilidade, escalabilidade e segurança.
 
 No entanto, recentemente embarquei em uma jornada para expandir minhas habilidades de programação. Tenho dedicado bastante tempo ao estudo de linguagens de programação como Python e shell scripting. Isso me permitiu desenvolver scripts para automatizar tarefas, manipular arquivos JSON e criar fluxos de trabalho eficientes.
