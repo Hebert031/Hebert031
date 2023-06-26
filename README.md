@@ -13,8 +13,6 @@ My growing interest in programming stems from the realization that combining inf
 
 I aim to further develop my programming capabilities, learn new technologies, and gain hands-on experience in building applications and solving real-world problems. I am excited about the opportunity to bridge the gap between infrastructure and development, ultimately contributing to more robust and resilient systems.
 
-<img src="https://raw.githubusercontent.com/Hebert031/Hebert031/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -23,3 +21,5 @@ I aim to further develop my programming capabilities, learn new technologies, an
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Hebert031/Hebert031/output/snake.svg" alt="Snake animation" />
