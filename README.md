@@ -14,7 +14,9 @@ My growing interest in programming stems from the realization that combining inf
 I aim to further develop my programming capabilities, learn new technologies, and gain hands-on experience in building applications and solving real-world problems. I am excited about the opportunity to bridge the gap between infrastructure and development, ultimately contributing to more robust and resilient systems.
 
 
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4512215" style='border:none;'></iframe>
+### 🔐 TryHackMe
+[![My TryHackMe Progress](https://tryhackme-badges.s3.amazonaws.com/4512215.png)](https://tryhackme.com/p/4512215)
+
 
 
 ###
@@ -48,7 +50,6 @@ I aim to further develop my programming capabilities, learn new technologies, an
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hebert031&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hebert031&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4512215" style='border:none;'></iframe>
-</div>
+  </div>
 
 ###
