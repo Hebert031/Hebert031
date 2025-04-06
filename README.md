@@ -14,7 +14,7 @@ My growing interest in programming stems from the realization that combining inf
 I aim to further develop my programming capabilities, learn new technologies, and gain hands-on experience in building applications and solving real-world problems. I am excited about the opportunity to bridge the gap between infrastructure and development, ultimately contributing to more robust and resilient systems.
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="My Skills"  />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4512215" style='border:none;'></iframe>
 </div>
 
 ###
