@@ -19,9 +19,9 @@ I aim to further develop my programming capabilities, learn new technologies, an
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/hebertribeiro31.png" alt="Your Image Badge" />
 </div>
-###
 
-<div align="left">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
