@@ -16,9 +16,9 @@ I aim to further develop my programming capabilities, learn new technologies, an
 
 
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/hebertribeiro31.png" alt="Your Image Badge" />
-
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/hebertribeiro31.png" alt="Your Image Badge" />
+</div>
 ###
 
 <div align="left">
