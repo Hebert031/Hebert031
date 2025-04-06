@@ -14,8 +14,8 @@ My growing interest in programming stems from the realization that combining inf
 I aim to further develop my programming capabilities, learn new technologies, and gain hands-on experience in building applications and solving real-world problems. I am excited about the opportunity to bridge the gap between infrastructure and development, ultimately contributing to more robust and resilient systems.
 
 
-### 🔐 TryHackMe
-[![My TryHackMe Progress](https://tryhackme-badges.s3.amazonaws.com/4512215.png)](https://tryhackme.com/p/4512215)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4512215.png)](https://tryhackme.com/p/4512215)
+
 
 
 
