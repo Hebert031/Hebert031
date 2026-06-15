@@ -1,19 +1,16 @@
-### Olá Pessoal 👋
-Ao longo de minha carreira, concentrei-me principalmente em funções relacionadas à infraestrutura, trabalhando com várias tecnologias e sistemas. Ganhei uma experiência valiosa em gerenciamento e manutenção de infraestrutura, garantindo sua estabilidade, escalabilidade e segurança.
+### Olá, pessoal 👋
 
-No entanto, recentemente embarquei em uma jornada para expandir minhas habilidades de programação. Tenho dedicado bastante tempo ao estudo de linguagens de programação como Python e shell scripting. Isso me permitiu desenvolver scripts para automatizar tarefas, manipular arquivos JSON e criar fluxos de trabalho eficientes.
+Minha trajetória na tecnologia sempre esteve muito ligada à infraestrutura, Linux, operações, automação e segurança. Ao longo do caminho, trabalhei com ambientes, sistemas e ferramentas que exigem estabilidade, visão prática e capacidade de resolver problemas sob pressão.
 
-Meu interesse crescente em programação decorre da percepção de que combinar conhecimento de infraestrutura com habilidades de programação pode aumentar significativamente minha capacidade de otimizar processos e simplificar operações. Acredito que uma base sólida em programação pode me permitir abordar os desafios de infraestrutura de uma perspectiva mais versátil e eficiente.
+Com o tempo, fui percebendo que infraestrutura sozinha já não é suficiente. Cada vez mais, quem trabalha com operações precisa entender também de código, automação, APIs, containers, cloud, segurança e inteligência artificial aplicada ao dia a dia técnico.
 
-Pretendo desenvolver ainda mais minhas capacidades de programação, aprender novas tecnologias e ganhar experiência prática na criação de aplicativos e na resolução de problemas do mundo real. Estou entusiasmado com a oportunidade de preencher a lacuna entre infraestrutura e desenvolvimento, contribuindo para sistemas mais robustos e resilientes. / Throughout my career, I have primarily focused on infrastructure-related roles, working with various technologies and systems. I have gained valuable experience in managing and maintaining infrastructure, ensuring its stability, scalability, and security.
+Por isso, venho aprofundando meus estudos em Python, shell script, automação, DevOps, DevSecOps e ferramentas que ajudam a transformar tarefas repetitivas em fluxos mais inteligentes. Tenho estudado e praticado com manipulação de arquivos, JSON, integrações, scripts, pipelines, segurança de aplicações, análise de vulnerabilidades e uso de IA como apoio para produtividade e investigação técnica.
 
-However, I have recently embarked on a journey to expand my programming skills. I have been dedicating a significant amount of time to studying programming languages such as Python and shell scripting. This has allowed me to develop scripts to automate tasks, manipulate JSON files, and create efficient workflows.
+Também tenho me interessado bastante pela base dos modelos de linguagem, como BERT, LLMs, embeddings e agentes de IA. Quanto mais estudo, mais percebo o quanto ainda tenho para aprender — e isso, sinceramente, tem sido uma das partes mais motivadoras da jornada.
 
-My growing interest in programming stems from the realization that combining infrastructure knowledge with programming skills can significantly enhance my ability to optimize processes and streamline operations. I believe that a strong foundation in programming can enable me to approach infrastructure challenges from a more versatile and efficient perspective.
+Meu objetivo é continuar evoluindo na interseção entre infraestrutura, segurança e desenvolvimento, criando soluções mais robustas, automatizadas e resilientes. Gosto de aprender colocando a mão na massa, errando, testando, corrigindo e entendendo de verdade como as coisas funcionam.
 
-I aim to further develop my programming capabilities, learn new technologies, and gain hands-on experience in building applications and solving real-world problems. I am excited about the opportunity to bridge the gap between infrastructure and development, ultimately contributing to more robust and resilient systems.
-
-
+Acredito que meu diferencial está justamente nessa combinação: experiência prática em infraestrutura, curiosidade técnica, interesse por segurança e vontade constante de aprender e construir soluções úteis para problemas reais.
 
 
 <div align="center">
